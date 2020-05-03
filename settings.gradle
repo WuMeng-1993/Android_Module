@@ -1,0 +1,3 @@
+rootProject.name='SimpleModule'
+include ':app'
+include ':member'
